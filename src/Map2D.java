@@ -149,6 +149,7 @@ public interface Map2D {
     public boolean equals(Object m);
 
 
+
 ///////////////// Algorithms //////////////////
 /**
  * Fill the connected component of p in the new color (new_v).
