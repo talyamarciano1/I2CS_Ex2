@@ -26,6 +26,6 @@ Calculate Optimal Routes: Navigate between any two points on the map using a BFS
 🏷
 
 The graphical interface provides an intuitive way to interact with complex graph algorithms, making abstract data structures visible and easy to understand.
-![img.png](img.png)
+![img.png](screenshots/img.png)
 
-![img_1.png](img_1.png)
+![img_1.png](screenshots/img_1.png)
