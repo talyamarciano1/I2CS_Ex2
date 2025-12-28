@@ -27,12 +27,12 @@ Calculate Optimal Routes: Navigate between any two points on the map using a BFS
 
 The graphical interface provides an intuitive way to interact with complex graph algorithms, making abstract data structures visible and easy to understand.
 
-## "Shortest path calculation on a standard grid: Finding the direct optimal route between two points."
+Shortest path calculation on a standard grid: Finding the direct optimal route between two points.
 
 <br>
 
 <img src="screenshots/img.png" width=300> <br>
 
-## "Shortest path calculation with cyclic wrapping: Finding the optimal route across map boundaries."
+Shortest path calculation with cyclic wrapping: Finding the optimal route across map boundaries.
 
 <img src="screenshots/img_1.png" width=300>
