@@ -189,6 +189,12 @@ public Pixel2D[] shortestPath(Pixel2D p1, Pixel2D p2, int obsColor, boolean cycl
  * @param start the source (starting) point
  * @param obsColor the color representing obstacles
  * @return a new map with all the shortest path distances from the starting point to each entry in this map.
+ * Compute a new map (with the same dimension as this map) with the
+ * shortest path distance (obstacle avoiding) from the start point.
+ * None accessible entries should be marked -1.
+ * @param start the source (starting) point
+ * @param obsColor the color representing obstacles
+ * @return a new map with all the shortest path distances from the starting point to each entry in this map.
  */
 public Map2D allDistance(Pixel2D start, int obsColor, boolean cyclic);
 }
